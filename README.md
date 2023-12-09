@@ -68,6 +68,10 @@ After these connections are made, download the BluefruitConnect on your phone fr
 
 To test that this process works, you can try some of these example codes listed [here](https://os.mbed.com/users/4180_1/notebook/adafruit-bluefruit-le-uart-friend---bluetooth-low-/). Make sure to import correctly into kell studio to ensure that the code compiles smoothly.
 
+## Step 5 
+
+!(motordriver)(https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51omiFpDDfL.__AC_SX300_SY300_QL70_FMwebp_.jpg)
+
 
 
 
