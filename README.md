@@ -56,6 +56,9 @@ To test that this process works, you can try some of these example codes listed 
 ## Step 4 
 
 ![image](https://cdn.sparkfun.com//assets/parts/3/8/9/9/09835-01a.jpg)
+
+and 
+
 ![image2](https://cdn.sparkfun.com//assets/parts/5/8/0/3/10811-03.jpg)
 
 
