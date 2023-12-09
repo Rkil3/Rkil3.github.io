@@ -29,12 +29,22 @@ To start off the Rambling Wreck, the wheels and chassis need to be properly buil
 You can follow this [tutorial for chassis and wheel building](https://learn.sparkfun.com/tutorials/assembly-guide-for-redbot-with-shadow-chassis?_ga=1.167965857.1619691232.144081192) for a step by step instruction to mount the wheel into the chassis body.
 
 ## Step 2
+![image](https://cdn.sparkfun.com//assets/parts/3/8/9/9/09835-01a.jpg)
+
+and 
+
+![image2](https://cdn.sparkfun.com//assets/parts/5/8/0/3/10811-03.jpg)
+
+
+Next step is to grab **2x** 4 Double AA Battery Power Pack and the Power Adapter. 
+
+## Step 3
 
 Mount the breadboard on top (breadboard usually have a tape side on the bottom so we can easily just tape the breadboard across the top of the chassis) Place the MBED LPC 1768 on the breadboard as shown
 
 ![MBED on Breadboard](https://os.mbed.com/media/uploads/mbedofficial/breadboardphoto.jpg)
 
-## Step 3
+## Step 4
 
 ![Bluetooth Adafruit](https://cdn-shop.adafruit.com/970x728/2633-04.jpg)
 
@@ -53,16 +63,6 @@ After these connections are made, download the BluefruitConnect on your phone fr
 
 To test that this process works, you can try some of these example codes listed [here](https://os.mbed.com/users/4180_1/notebook/adafruit-bluefruit-le-uart-friend---bluetooth-low-/). Make sure to import correctly into kell studio to ensure that the code compiles smoothly.
 
-## Step 4 
-
-![image](https://cdn.sparkfun.com//assets/parts/3/8/9/9/09835-01a.jpg)
-
-and 
-
-![image2](https://cdn.sparkfun.com//assets/parts/5/8/0/3/10811-03.jpg)
 
 
-Next step is to grab **2x** 4 Double AA Battery Power Pack and the Power Adapter. 
 
-
-this is a test edit
