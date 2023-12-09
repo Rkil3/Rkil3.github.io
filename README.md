@@ -53,5 +53,11 @@ After these connections are made, download the BluefruitConnect on your phone fr
 
 To test that this process works, you can try some of these example codes listed [here](https://os.mbed.com/users/4180_1/notebook/adafruit-bluefruit-le-uart-friend---bluetooth-low-/). Make sure to import correctly into kell studio to ensure that the code compiles smoothly.
 
+## Step 4 
+
+[4x Double AA Power Holder](https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/496/114090052.jpg)
+
+Next step is to grab **2x** 4 Double AA Battery Power Pack and the Power Adapter. 
+
 
 
