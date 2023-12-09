@@ -122,10 +122,24 @@ Here is the wiring connection between the MBED and uLCD
 
 ![PCBSpeaker](https://cdn.sparkfun.com//assets/parts/6/5/0/4/11089-01.jpg)
 
+Now that we have the driver and the Rambling Wreck set up, here we will add a nice little feature to be able to honk the horn using the PCB Speaker.
+
+| MBED | PCB Speaker |
+| ----- | ----------- |
+| gnd | gnd |
+| VU(5v) | Vin(3.3-16V)
+
 ## Step 9
 
 ![LEDwhite](https://www.arborsci.com/cdn/shop/products/WhiteLED1500x1000.jpg?v=1617221784)
 
 and ![LEDred](https://www.arborsci.com/cdn/shop/products/redLED1500x1000.jpg?v=1684434191)
+
+Using these LED's, connect the longer end to the positive 5v of MBED and connect the shorter end to ground (gnd).
+
+| MBED | LEDs |
+| ----- | ----------- |
+| gnd | Short End |
+| VU(5v) | Long End |
 
 
