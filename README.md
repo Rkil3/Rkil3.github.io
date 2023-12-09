@@ -146,6 +146,8 @@ Using these LED's, connect the longer end to the positive 5v of MBED and connect
 | gnd | Short End |
 | VU(5v) | Long End |
 
+Here we use the two small breadboards to put each in the front and back part of the body. For the front part, the wnite LED's will be connected making them head lights. The back breadboard will have the red LED's for brake lights.
+
 ## Step 10
 
 Lastly, we run the code main.cpp located on rkil3.github.io repository. Make sure to have all libraries imported.
