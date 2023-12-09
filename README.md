@@ -3,10 +3,10 @@
 
 [Rambling Wreck!](https://www.youtube.com/shorts/OATE5wvw6fY)
 
-## Tables
+## Step by Step documentation to recreate the Rambling Wreck!
 
 | Table | Description |
 | ----- | ----------- |
-| data  | something heree |
-| data2 | somethginrgoieanogrinearg |
-
+| Body and Wheels  | Chasity and Wheels placement |
+| DC Gearbox Motors | The DC Gearbox Motors will drive the wheels |
+| Dual H Bridge Motor Controller | The Dual H Bridge will drive both DC Gearbox Motors |
