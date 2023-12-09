@@ -100,12 +100,11 @@ Here is the wiring connection between MBED and Lidar Sensor
 
 | MBED | ToF Sensor |
 | ----- | ----------- |
+| 3.3V | VIN |
 | gnd | gnd |
-| VU(5v) | Vin(3.3-16V)
-| nc | RTS |
-| gnd | CTS |
-| p27 (Serial RX) | TXO |
-| p28 (Serial TX) | RXI |
+| P28 | SDA |
+| P27 | SCL |
+| p26 | SHDN |
 
 ## Step 7
 
