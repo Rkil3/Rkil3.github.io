@@ -36,5 +36,9 @@ Mount the breadboard on top (breadboard usually have a tape side on the bottom s
 
 ## Step 3
 
-Place the Bluetooth Adafruit 
+![Bluetooth Adafruit](https://cdn-shop.adafruit.com/970x728/2633-04.jpg)
+
+Place the Bluetooth Adafruit right below the MBED on the same breadboard. 
+
+
 
