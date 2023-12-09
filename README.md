@@ -90,6 +90,19 @@ Here is the wiring connection between MBED and Dual H Bridge.
 
 ![lidarsensor](https://cdn-learn.adafruit.com/guides/images/000/001/516/medium800/VL53L0X_top.jpg)
 
+This is a Time of Flight Sensor that will be used for obstable detection. 
+
+Here is the wiring connection between MBED and Lidar Sensor
+
+| MBED | ToF Sensor |
+| ----- | ----------- |
+| gnd | gnd |
+| VU(5v) | Vin(3.3-16V)
+| nc | RTS |
+| gnd | CTS |
+| p27 (Serial RX) | TXO |
+| p28 (Serial TX) | RXI |
+
 ## Step 7
 
 ## Step 8
