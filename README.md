@@ -72,6 +72,19 @@ To test that this process works, you can try some of these example codes listed 
 
 ![motordriver](https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51omiFpDDfL.__AC_SX300_SY300_QL70_FMwebp_.jpg)
 
+Next step is to drive the motor with this Dual H Bridge.
+
+Here is the wiring connection between MBED and Dual H Bridge.
+
+| MBED | Bluetooth Adafruit |
+| ----- | ----------- |
+| gnd | gnd |
+| VU(5v) | Vin(3.3-16V)
+| nc | RTS |
+| gnd | CTS |
+| p27 (Serial RX) | TXO |
+| p28 (Serial TX) | RXI |
+
 
 
 
