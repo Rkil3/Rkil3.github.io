@@ -26,7 +26,7 @@
 ## Step 1
 
 To start off the Rambling Wreck, the wheels and chassis need to be properly built.
-You can follow this [tutorial for chassis and wheel building](https://learn.sparkfun.com/tutorials/assembly-guide-for-redbot-with-shadow-chassis?_ga=1.167965857.1619691232.144081192) for a step by step instruction to mount the wheel into the chassis body.
+You can follow this [tutorial for chassis and wheel building](https://learn.sparkfun.com/tutorials/assembly-guide-for-redbot-with-shadow-chassis?_ga=1.167965857.1619691232.144081192) for a step by step instruction to mount the wheel into the chassis body. The motor will be connected to the wheels to drive them. 
 
 ## Step 2
 ![image](https://cdn.sparkfun.com//assets/parts/3/8/9/9/09835-01a.jpg)
@@ -36,7 +36,7 @@ and
 ![image2](https://cdn.sparkfun.com//assets/parts/5/8/0/3/10811-03.jpg)
 
 
-Next step is to grab **2x** 4 Double AA Battery Power Pack and the Power Adapter. 
+Next step is to grab **2x** 4 Double AA Battery Power Pack and the Power Adapter. These need to fit in between the body
 
 ## Step 3
 
