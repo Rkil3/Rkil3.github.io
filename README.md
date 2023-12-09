@@ -120,8 +120,12 @@ Here is the wiring connection between the MBED and uLCD
 
 ## Step 8
 
+![PCBSpeaker](https://cdn.sparkfun.com//assets/parts/6/5/0/4/11089-01.jpg)
+
 ## Step 9
 
+![LEDwhite](https://www.arborsci.com/cdn/shop/products/WhiteLED1500x1000.jpg?v=1617221784)
 
+and ![LEDred](https://www.arborsci.com/cdn/shop/products/redLED1500x1000.jpg?v=1684434191)
 
 
