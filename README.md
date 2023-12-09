@@ -16,4 +16,5 @@
 | Dual H Bridge Motor Controller | The Dual H Bridge will drive both DC Gearbox Motors |
 | Bluetooth Adafruit | UART bluetooth connection with controls via phone for the car |
 | VL53L0X Lidar Sensor | ToF Distance Sensor for obstacle detection | 
-| 
+| PCB Speaker | Output audio for Horn functionality |
+| Red LED and White LED | Lighting functionality for headlight and brake lights |
