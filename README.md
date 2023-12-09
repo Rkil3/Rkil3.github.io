@@ -38,7 +38,16 @@ Mount the breadboard on top (breadboard usually have a tape side on the bottom s
 
 ![Bluetooth Adafruit](https://cdn-shop.adafruit.com/970x728/2633-04.jpg)
 
-Place the Bluetooth Adafruit right below the MBED on the same breadboard. 
+Place the Bluetooth Adafruit right below the MBED on the same breadboard. The pins will need to be soldered in order to plug directly into the breadboard. Below is the table for wiring between Bluetooth Adafruit and MBED.
+
+| MBED | Bluetooth Adafruit |
+| ----- | ----------- |
+| gnd | gnd |
+| VU(5v) | Vin(3.3-16V)
+| nc | RTS |
+| gnd | CTS |
+| p27 (Serial RX) | TXO |
+| p28 (Serial TX) | RXI |
 
 
 
