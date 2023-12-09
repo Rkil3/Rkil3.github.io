@@ -1,9 +1,4 @@
 # Site settings
-title: 
-author:
-  name: Ryan Kil and Janna Born
-  email: 
-description: 
 
 # Build settings
-remote_theme: jekyll/minima
+
