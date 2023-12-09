@@ -70,7 +70,7 @@ To test that this process works, you can try some of these example codes listed 
 
 ## Step 5 
 
-!(motordriver)(https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51omiFpDDfL.__AC_SX300_SY300_QL70_FMwebp_.jpg)
+![motordriver](https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51omiFpDDfL.__AC_SX300_SY300_QL70_FMwebp_.jpg)
 
 
 
