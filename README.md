@@ -31,7 +31,7 @@ You can follow this [tutorial for chassis and wheel building](https://learn.spar
 
 ![parts](https://cdn.sparkfun.com/r/600-600/assets/learn_tutorials/3/3/7/Redbot_Kit-00_annotated_updated.jpg)
 
-You will only need the physical components and the 2 Gearbox DC Motor.
+You will only need the physical components and the 2 Gearbox DC Motor. 
 
 ## Step 2
 ![image](https://cdn.sparkfun.com//assets/parts/3/8/9/9/09835-01a.jpg)
@@ -41,7 +41,7 @@ and
 ![image2](https://cdn.sparkfun.com//assets/parts/5/8/0/3/10811-03.jpg)
 
 
-Next step is to grab **2x** 4 Double AA Battery Power Pack and the Power Adapter. These need to fit in between the body
+Next step is to grab **2x** 4 Double AA Battery Power Pack and the Power Adapter. These need to fit in between the body and make sure to have 2 of each. This is important because when the Rambling Wreck is wireless, it needs to have both to power the whole integrated system.
 
 ## Step 3
 
