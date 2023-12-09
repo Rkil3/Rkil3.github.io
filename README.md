@@ -55,7 +55,7 @@ To test that this process works, you can try some of these example codes listed 
 
 ## Step 4 
 
-![4x Double AA Power Holder](https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/496/114090052.jpg)
+![image](https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/496/114090052.jpg)
 
 Next step is to grab **2x** 4 Double AA Battery Power Pack and the Power Adapter. 
 
