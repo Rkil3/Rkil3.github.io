@@ -145,4 +145,8 @@ Using these LED's, connect the longer end to the positive 5v of MBED and connect
 
 Lastly, we run the code main.cpp located on rkil3.github.io repository. Make sure to have all libraries imported.
 
+Open the BluefruitConnect app on your phone, and then connect via bluetooth.
+
+Go to the control section and start driving the Rambling Wreck!
+
 
