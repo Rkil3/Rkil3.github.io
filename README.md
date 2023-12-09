@@ -58,11 +58,10 @@ Place the Bluetooth Adafruit right below the MBED on the same breadboard. The pi
 | MBED | Bluetooth Adafruit |
 | ----- | ----------- |
 | gnd | gnd |
-| VU(5v) | Vin(3.3-16V)
-| nc | RTS |
+| VU(5v) | Vin(3.3-16V) |
 | gnd | CTS |
-| p27 (Serial RX) | TXO |
-| p28 (Serial TX) | RXI |
+| p14 (Serial RX) | TXO |
+| p13 (Serial TX) | RXI |
 
 After these connections are made, download the BluefruitConnect on your phone from the App Store and then we can control everything via your phone!
 
@@ -117,10 +116,10 @@ Here is the wiring connection between the MBED and uLCD
 | MBED | uLCD |
 | ----- | ----------- |
 | Vu | +5V |
-| p27 | TX |
-| p28 | RX |
+| p10 | TX |
+| p9 | RX |
 | gnd | gnd |
-| p30 | RES |
+| p11 | RES |
 
 ## Step 8
 
