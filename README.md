@@ -144,13 +144,13 @@ For more information on how to set this up, refer to [this page](https://os.mbed
 
 and ![LEDred](https://www.arborsci.com/cdn/shop/products/redLED1500x1000.jpg?v=1684434191)
 
-Using these LED's, connect the longer end to the positive 5v of MBED and connect the shorter end to ground (gnd).
+Using these LED's, connect the longer end to the MBED pins listed below and connect the shorter end to ground (gnd).
 
 | MBED | LEDs |
 | ----- | ----------- |
 | gnd | Short End |
-| VU(5v) | Long End |
-
+| P24 | White LED Long End |
+| P25 | Red LED Long End |
 Here we use the two small breadboards to put each in the front and back part of the body. For the front part, the wnite LED's will be connected making them head lights. The back breadboard will have the red LED's for brake lights.
 
 ## Step 10
