@@ -29,6 +29,10 @@
 To start off the Rambling Wreck, the wheels and chassis need to be properly built.
 You can follow this [tutorial for chassis and wheel building](https://learn.sparkfun.com/tutorials/assembly-guide-for-redbot-with-shadow-chassis?_ga=1.167965857.1619691232.144081192) for a step by step instruction to mount the wheel into the chassis body. The motor will be connected to the wheels to drive them. 
 
+![parts](https://cdn.sparkfun.com/r/600-600/assets/learn_tutorials/3/3/7/Redbot_Kit-00_annotated_updated.jpg)
+
+You will only need the physical components and the 2 Gearbox DC Motor.
+
 ## Step 2
 ![image](https://cdn.sparkfun.com//assets/parts/3/8/9/9/09835-01a.jpg)
 
