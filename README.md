@@ -76,14 +76,18 @@ Next step is to drive the motor with this Dual H Bridge.
 
 Here is the wiring connection between MBED and Dual H Bridge.
 
-| MBED | Bluetooth Adafruit |
+| MBED | Dual H Bridge |
 | ----- | ----------- |
 | gnd | gnd |
-| VU(5v) | Vin(3.3-16V)
-| nc | RTS |
-| gnd | CTS |
-| p27 (Serial RX) | TXO |
-| p28 (Serial TX) | RXI |
+| VOUT(3.3V) | VCC |
+| p6 | AI1 |
+| p5 | AI2 |
+| p7 | BI1 |
+| p8 | BI2 |
+| p23 | PWMA |
+| p22 | PWMB |
+
+You will also need to connect the H Bridge to the main power and to the motor leads. Connect the 5V power supply coming from the batteries to VM directly and to STBY with a pull-up resistor. Connect the motor leads of the left motor to A01 and A02 on the H Bridge, and connect the leads of the right motor to B01 and B02.
 
 
 ## Step 6 
