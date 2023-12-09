@@ -31,7 +31,7 @@ You can follow this [tutorial for chassis and wheel building](https://learn.spar
 
 ![parts](https://cdn.sparkfun.com/r/600-600/assets/learn_tutorials/3/3/7/Redbot_Kit-00_annotated_updated.jpg)
 
-You will only need the physical components and the 2 Gearbox DC Motor. 
+You will only need the physical components, the 2 Gearbox DC Motor, and the Batteries. 
 
 ## Step 2
 ![image](https://cdn.sparkfun.com//assets/parts/3/8/9/9/09835-01a.jpg)
