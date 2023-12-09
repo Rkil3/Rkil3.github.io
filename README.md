@@ -49,5 +49,9 @@ Place the Bluetooth Adafruit right below the MBED on the same breadboard. The pi
 | p27 (Serial RX) | TXO |
 | p28 (Serial TX) | RXI |
 
+After these connections are made, download the BluefruitConnect on your phone from the App Store and then we can control everything via your phone!
+
+To test that this process works, you can try some of these example codes listed [here](https://os.mbed.com/users/4180_1/notebook/adafruit-bluefruit-le-uart-friend---bluetooth-low-/). Make sure to import correctly into kell studio to ensure that the code compiles smoothly.
+
 
 
