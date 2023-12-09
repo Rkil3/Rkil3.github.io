@@ -31,6 +31,7 @@ You can follow this [tutorial for chassis and wheel building](https://learn.spar
 ## Step 2
 
 Mount the breadboard on top (breadboard usually have a tape side on the bottom so we can easily just tape the breadboard across the top of the chassis) Place the MBED LPC 1768 on the breadboard as shown
+
 ![MBED on Breadboard](https://os.mbed.com/media/uploads/mbedofficial/breadboardphoto.jpg)
 
 ## Step 3
