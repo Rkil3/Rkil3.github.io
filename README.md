@@ -156,7 +156,7 @@ Here we use the two small breadboards to put each in the front and back part of 
 
 ## Step 10
 
-Lastly, we run the code main.cpp located on [repo](https://github.com/Rkil3/Rkil3.github.io) repository. Make sure to have all libraries imported.
+Lastly, we run the code main.cpp located on [Rkil3.github.io](https://github.com/Rkil3/Rkil3.github.io) repository. Make sure to have all libraries imported.
 
 Open the BluefruitConnect app on your phone, and then connect via bluetooth.
 
