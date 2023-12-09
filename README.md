@@ -110,6 +110,8 @@ Here is the wiring connection between MBED and Lidar Sensor
 
 ![uLCD](https://cdn.sparkfun.com//assets/parts/7/1/2/3/11377-01a.jpg)
 
+The code will print a ASCII drawn driver to the uLCD which can be mounted on the driver side like an actual car!
+
 Here is the wiring connection between the MBED and uLCD
 
 | MBED | uLCD |
