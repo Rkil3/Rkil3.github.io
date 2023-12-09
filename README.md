@@ -21,7 +21,7 @@
 | VL53L0X Lidar Sensor | ToF Distance Sensor for obstacle detection | 
 | PCB Speaker | Output audio for Horn functionality |
 | Red LED and White LED | Lighting functionality for headlight and brake lights |
-| ----- | ----------- |
+
 
 ## Step 1
 
