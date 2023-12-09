@@ -29,5 +29,5 @@ You can follow this [tutorial for chassis and wheel building](https://learn.spar
 ## Step 2
 
 Mount the breadboard on top (breadboard usually have a tape side on the bottom so we can easily just tape the breadboard across the top of the chassis) like shown below 
-![Rambling Wreck](https//rkil3.github.io/RamblingWreckFront.jpg)
+![Rambling Wreck](https//rkil3.github.com/RamblingWreckFront.jpg)
 
