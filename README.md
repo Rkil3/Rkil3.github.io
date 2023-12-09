@@ -9,6 +9,7 @@
 
 | Components | Description |
 | ----- | ----------- |
+| MBED LPC 1768 | Microcontroller to control all components |
 | 2x 4 Double AA Battery Power Pack | Generates the power for all components |
 | 2x Power Jack | Adapter for the Battery Power Pack |
 | Body and Wheels  | Chasity and Wheels placement |
