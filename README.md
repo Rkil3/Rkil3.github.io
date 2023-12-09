@@ -142,4 +142,8 @@ Using these LED's, connect the longer end to the positive 5v of MBED and connect
 | gnd | Short End |
 | VU(5v) | Long End |
 
+## Step 10
+
+Lastly, we run the code main.cpp located on rkil3.github.io repository. Make sure to have all libraries imported.
+
 
