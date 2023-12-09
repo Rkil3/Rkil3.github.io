@@ -86,5 +86,16 @@ Here is the wiring connection between MBED and Dual H Bridge.
 | p28 (Serial TX) | RXI |
 
 
+## Step 6 
+
+![lidarsensor](https://cdn-learn.adafruit.com/guides/images/000/001/516/medium800/VL53L0X_top.jpg)
+
+## Step 7
+
+## Step 8
+
+## Step 9
+
+
 
 
