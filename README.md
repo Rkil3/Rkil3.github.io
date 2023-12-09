@@ -111,12 +111,11 @@ Here is the wiring connection between the MBED and uLCD
 
 | MBED | uLCD |
 | ----- | ----------- |
+| Vu | +5V |
+| p27 | TX |
+| p28 | RX |
 | gnd | gnd |
-| VU(5v) | Vin(3.3-16V)
-| nc | RTS |
-| gnd | CTS |
-| p27 (Serial RX) | TXO |
-| p28 (Serial TX) | RXI |
+| p30 | RES |
 
 ## Step 8
 
