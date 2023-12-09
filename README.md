@@ -129,8 +129,8 @@ Now that we have the driver and the Rambling Wreck set up, here we will add a ni
 
 | MBED | PCB Speaker |
 | ----- | ----------- |
-| gnd | gnd |
-| VU(5v) | Vin(3.3-16V)
+| gnd | - |
+| VU(5v) | + |
 
 ## Step 9
 
