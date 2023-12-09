@@ -125,12 +125,18 @@ Here is the wiring connection between the MBED and uLCD
 
 ![PCBSpeaker](https://cdn.sparkfun.com//assets/parts/6/5/0/4/11089-01.jpg)
 
-Now that we have the driver and the Rambling Wreck set up, here we will add a nice little feature to be able to honk the horn using the PCB Speaker.
+Now that we have the driver and the Rambling Wreck set up, here we will add a nice little feature to be able to honk the horn using the PCB Speaker. To do this, we will use a general purpose amplifier, and p21 on the mbed will be a PWM output that controls the speaker.
 
-| MBED | PCB Speaker |
-| ----- | ----------- |
-| gnd | - |
-| VU(5v) | + |
+![speaker wiring diagram](https://os.mbed.com/media/uploads/4180_1/_scaled_speakerdriverschem.png) ![general purpose amplifier](https://os.mbed.com/media/uploads/4180_1/2n3904.jpg)
+
+| MBED | Amplifier | PCB Speaker |
+| ----- | ---------- | ----------- |
+|  | C | - |
+| p21 (via resistor) | B |  |
+| Gnd | E |  |
+| VOUT |  | + |
+
+For more information on how to set this up, refer to [this page](https://os.mbed.com/users/4180_1/notebook/using-a-speaker-for-audio-output/).
 
 ## Step 9
 
