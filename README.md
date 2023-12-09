@@ -10,7 +10,8 @@
 | Components | Description |
 | ----- | ----------- |
 | MBED LPC 1768 | Microcontroller to control all components |
-| Breadboards | To connect everything via wires |
+| 1 long Breadboard | To connect everything via wires |
+| 2 small Breadboard | To connect leds for headlight and brake lights |
 | 2x 4 Double AA Battery Power Pack | Generates the power for all components |
 | 2x Power Jack | Adapter for the Battery Power Pack |
 | Body and Wheels  | Chassis and Wheels placement |
@@ -20,6 +21,7 @@
 | VL53L0X Lidar Sensor | ToF Distance Sensor for obstacle detection | 
 | PCB Speaker | Output audio for Horn functionality |
 | Red LED and White LED | Lighting functionality for headlight and brake lights |
+| ----- | ----------- |
 
 ## Step 1
 
@@ -28,6 +30,5 @@ You can follow this [tutorial for chassis and wheel building](https://learn.spar
 
 ## Step 2
 
-Mount the breadboard on top (breadboard usually have a tape side on the bottom so we can easily just tape the breadboard across the top of the chassis) like shown below 
-![Rambling Wreck](https//rkil3.github.com/RamblingWreckFront.jpg)
+Mount the breadboard on top (breadboard usually have a tape side on the bottom so we can easily just tape the breadboard across the top of the chassis) Place the MBED LPC 1768 on the breadboard 
 
