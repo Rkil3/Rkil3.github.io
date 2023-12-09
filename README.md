@@ -105,6 +105,19 @@ Here is the wiring connection between MBED and Lidar Sensor
 
 ## Step 7
 
+![uLCD](https://cdn.sparkfun.com//assets/parts/7/1/2/3/11377-01a.jpg)
+
+Here is the wiring connection between the MBED and uLCD
+
+| MBED | uLCD |
+| ----- | ----------- |
+| gnd | gnd |
+| VU(5v) | Vin(3.3-16V)
+| nc | RTS |
+| gnd | CTS |
+| p27 (Serial RX) | TXO |
+| p28 (Serial TX) | RXI |
+
 ## Step 8
 
 ## Step 9
