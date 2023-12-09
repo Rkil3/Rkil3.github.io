@@ -7,9 +7,13 @@
 
 ## Table of Contents
 
-| Steps | Description |
+| Components | Description |
 | ----- | ----------- |
+| 2x 4 Double AA Battery Power Pack | Generates the power for all components |
+| 2x Power Jack | Adapter for the Battery Power Pack |
 | Body and Wheels  | Chasity and Wheels placement |
 | DC Gearbox Motors | The DC Gearbox Motors will drive the wheels |
 | Dual H Bridge Motor Controller | The Dual H Bridge will drive both DC Gearbox Motors |
+| Bluetooth Adafruit | UART bluetooth connection with controls via phone for the car |
+| VL53L0X Lidar Sensor | ToF Distance Sensor for obstacle detection | 
 | 
