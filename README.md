@@ -151,6 +151,7 @@ Using these LED's, connect the longer end to the MBED pins listed below and conn
 | gnd | Short End |
 | P24 | White LED Long End |
 | P25 | Red LED Long End |
+
 Here we use the two small breadboards to put each in the front and back part of the body. For the front part, the wnite LED's will be connected making them head lights. The back breadboard will have the red LED's for brake lights.
 
 ## Step 10
